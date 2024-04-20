@@ -29,6 +29,7 @@ if (f(a) * f(b) >= 0){
 	count = count + 1
 	cat(count,"inci iterasyonda, kok  = ", c, "\n")
 }
+	 cat(count,"iterasyonda islem durdurulur. ve f(",c," )=", f(c))
 }
 
 
