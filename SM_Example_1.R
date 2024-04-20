@@ -1,3 +1,4 @@
+# Define the function
 f = function(x){
   return(x^3 - 3*x^2 + 9)
 }
